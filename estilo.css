@@ -61,3 +61,7 @@ table {
 body {
     background: darkgray;
 }
+
+ul {
+    background: rgb(173, 159, 159);
+}
